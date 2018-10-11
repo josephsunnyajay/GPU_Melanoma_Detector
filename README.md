@@ -52,3 +52,5 @@ Tensorboard –logdir=traind_dir
 To list filenames without extension in cmd
 for %a in ("PATH") do @echo %~na
 
+Extract object_detection.rar in the root directory of project
+
