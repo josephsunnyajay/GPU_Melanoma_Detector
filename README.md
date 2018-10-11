@@ -1,4 +1,4 @@
-# GPU_Melanoma_Detector
+# GPU_Accelerated_Real_Time_Melanoma_Detector
 GPU Accelerated Real Time Melanoma Detection using Tensorflow
 Installation
 First, with python and pip installed, install the scripts requirements:
