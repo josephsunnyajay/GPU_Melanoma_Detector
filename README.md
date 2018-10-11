@@ -54,3 +54,4 @@ for %a in ("PATH") do @echo %~na
 
 Extract object_detection.rar in the root directory of project
 
+Choose among different SSD Mobilenet, Unet or ResNet based on which model is required to use for training. Choose the corresponding .config file
